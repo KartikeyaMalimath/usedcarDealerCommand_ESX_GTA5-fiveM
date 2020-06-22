@@ -4,5 +4,5 @@ This is a simple lua script that can be chat commands to give transfer vehicle a
 
 ##Usage
 
-[x] <code>/transfervehicle [sellerID] [buyerID] [Plate]</code>
+[x] <code>/transfervehicle [sellerID] [buyerID] [Plate]</code>\n
 [x] <code>/vehinfo [plate]</code>
